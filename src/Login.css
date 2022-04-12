@@ -1,0 +1,131 @@
+.Login{
+  padding-top: 130px;
+  width: 1260px;
+  margin: 0 auto;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+}
+.main_lo{
+    text-align: center;
+
+}
+.main_lo>div{
+    padding-top: 50px;
+}
+.input-container label{
+   font-size: 20px;
+ 
+}
+.input-container input{
+    width: 550px;
+    height: 45px;
+    font-size: 17px;
+    border: 1px solid #6167B2;
+    padding: 5px;
+}
+.input-container .id input{
+    margin-left: 50px;
+}
+.input-container .password{
+    padding-top: 50px;
+}
+.input-container .password input{
+    margin-left: 27px;
+}
+.loginMid{
+    height: 30px;
+    font-size: 18px;
+     color: #707070;
+     position: relative;
+}
+.loginMid .check{
+    position: absolute;
+    left: 296px;
+    float: left;
+}
+.loginMid .autoLogin{
+    margin-left: 20px;
+}
+.loginMid .ji_fi{
+    float: right;
+    position: absolute;
+    right: 295px;
+}
+.loginMid .ji_fi .join{
+    margin-right: 20px;
+}
+.button-container button{
+    width: 679px;
+    height: 50px;
+    color: #fff;
+    background: #6167B2;
+    border: none;
+    font-size: 20px;
+}
+.otherlogin{
+    margin-top: 15px;
+    position: relative;
+    display: block;
+    height: 122px;
+}
+.line{
+    width: 182px;
+    border: 2px solid #B6B6B6;
+    float: left;
+    position: absolute;
+    left: 290px;
+    margin-top: 14px;
+}
+.ri{
+    width: 182px;
+    position: absolute;
+    border: 2px solid #B6B6B6;
+    float: right;
+    right: 293px;
+    margin-top: 14px;
+}
+.otherlogin h3{
+    position: absolute;
+    color: #B6B6B6;
+    left: 496px;
+    font-size: 18px;
+}
+.otherlogin .login{
+    position: relative;
+    top: 72px;
+    left: 269px;
+}
+.otherlogin .login button{
+    float: left;
+    border: none;
+    font-size: 18px;
+    line-height: 50px;
+    color: #fff;
+}
+.otherlogin .login img{
+    width: 30px;
+    height: 30px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.kakao{
+    background-color: #F9E000;
+    width: 220px;
+    height: 50px;
+    margin-right: 20px;
+}
+.naver{
+    width: 210px;
+    height: 50px;
+    background-color: #2DB400;
+    margin-right: 20px;
+}
+.facebook{
+    width: 260px;
+    height: 50px;
+    background-color: #3B5998;
+}
