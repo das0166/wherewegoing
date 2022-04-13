@@ -1,0 +1,105 @@
+.Join{
+    padding-top: 130px;
+    width: 1260px;
+    margin: 0 auto;
+  }
+  .title{
+      text-align: center;
+      font-size: 40px;
+  }
+  .Join_nae{
+      position: relative;
+     top: 90px;
+     left: 255px;
+     width: 750px;
+  }
+  .Join_nae>div{
+      width: 750px;
+      height: 149px;
+      margin-bottom: 30px;
+      position: relative;
+  }
+  .Join_nae>div>label{
+      font-size: 25px;
+  }
+  .Join_nae>div>input{
+      width: 510px;
+      height: 25px;
+      font-size: 18px;
+      border-radius: 28px;
+      padding: 10px 20px;
+      position: absolute;
+      left: 0;
+      top: 52px;
+  }
+  .Join_nae>div>ul{
+      position: absolute;
+      top: 106px;
+      left: 0;
+  }
+  .Join_nae>div>ul>li:nth-child(2){
+      margin-top: 2px;
+  }
+  .Join_nae>div>button{
+      width: 150px;
+      height: 50px;
+      font-size: 20px;
+      border: 1px solid #6167B2;
+      background-color: #fff;
+      color: #6167B2;
+      position: absolute;
+      right: 0;
+      top: 49px;
+      
+  }
+  .Join_nae>div>button:hover{
+      background: #6167B2;
+      color: #fff;
+  }
+  .Join_nae>.id>label p{
+      top: 0;
+      left: 70px;
+      position: absolute;
+  }
+  .Join_nae>.password>label p{
+    top: 0;
+    left: 92px;
+    position: absolute;
+}
+.Join_nae>.password_check>label p{
+    top: 0;
+    left: 144px;
+    position: absolute;
+}
+.Join_nae>.nickname>label p,.Join_nae>.email>label p, .Join_nae>.phone>label p{
+    top: 0;
+    left: 69px;
+    position: absolute;
+}
+  .Join_nae>div p{
+      width: 9px;
+      height: 26px;
+      color: #FF0000;
+      font-size: 18px;
+      float: left;
+  }
+  .recommend {
+      position: relative;
+      width: 960px;
+      margin: 0 auto;
+      height: 800px;
+      margin-top: 150px;
+  }
+  .line{
+      width: 960px;
+      border: 1px solid #6167B2;
+      left: 0;
+  }
+  .recommend h3{
+    position: absolute;
+    left: 234px;
+    width: 493px;
+    height: 29px;
+    text-align: center;
+    background: #fff;
+  }
